@@ -63,7 +63,7 @@ class Pengguna_admin extends CI_Controller
 					'id_level'   => $id_level,
 					'nama_user'  => $nama_user,
 					'email_user' => $email_user,
-					'phone_user' => $id_level,
+					'phone_user' => $phone_user,
 					'image_user' => $image_user,
 					'password'   => $password,
 					'tgl_daftar' => $tgl_daftar,
