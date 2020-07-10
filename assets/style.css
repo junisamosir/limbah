@@ -1,0 +1,25 @@
+.jumbotron {
+	background-image: url(img/front.png);
+	background-size: cover;
+	height: 550px;
+	margin-top: 70px;
+	font-family: Montserrat;
+}
+.jumbotron p {
+	color: #568203;
+	font-size: 15px;
+}
+.jumbotron a {
+	border-color: green;
+	color: #568203;
+	border-width: 3px;
+}
+.nav-link {
+	font-family: Montserrat;
+	font-size: 13px;
+	color: #568203 !important;
+}
+.navbar-brand{
+	color: #568203 !important;
+}
+
